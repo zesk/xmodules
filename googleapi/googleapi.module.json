@@ -1,0 +1,9 @@
+{
+	"name": "Google API",
+	"composer": {
+		"require": [
+			"google/apiclient"
+		]
+	},
+	"github": "google/google-api-php-client"
+}
